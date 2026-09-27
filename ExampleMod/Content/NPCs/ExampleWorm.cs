@@ -1,5 +1,5 @@
 using ExampleMod.Content.Items.Placeable.Banners;
-using ExampleMod.NPCs;
+using ExampleMod.Content.NPCs;
 using Microsoft.Xna.Framework;
 using System.IO;
 using Terraria;
